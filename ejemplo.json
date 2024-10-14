@@ -1,0 +1,10 @@
+{
+    
+        "info": [
+            { "id": 1, "name": "Mariela", "lastname": "Martinez", "email": "mariela.marti@gmail.com", "subject": "Programación"},
+            { "id": 2, "name": "Gloriana", "lastname": "Lopez", "email": "glori.lopez@gmail.com", "subject": "Inglés"},
+            { "id": 3, "name": "Matías", "lastname": "Gonzalez", "email": "matias.gonzalez@gmail.com", "subject": "Matemática"}
+        ]
+    
+
+}

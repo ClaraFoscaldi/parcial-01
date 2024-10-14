@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "662eac46b4f33688b4224938"
+  },
+  "title": "Clase 1",
+  "date": "20/04, 11:00 - 13:00 hs",
+  "price": 4000,
+  "link": "https://link-clase-01.com",
+  "number_students": 1
+},
+{
+  "_id": {
+    "$oid": "662eac46b4f33688b4224939"
+  },
+  "title": "Clase 2",
+  "date": "27/04, 11:00 - 13:00 hs",
+  "price": 4000,
+  "link": "https://link-clase-02.com",
+  "number_students": 1
+},
+{
+  "_id": {
+    "$oid": "662eac46b4f33688b422493a"
+  },
+  "title": "Clase 3",
+  "date": "04/05, 11:00 - 13:00 hs",
+  "price": 4000,
+  "link": "https://link-clase-03.com",
+  "number_students": 1
+}]

@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "662eae82b4f33688b4224942"
+  },
+  "name": "Marina",
+  "lastname": "Martinez",
+  "email": "marina.mart@gmail.com",
+  "password": "abc123",
+  "subject": "Programación"
+},
+{
+  "_id": {
+    "$oid": "662eae82b4f33688b4224943"
+  },
+  "name": "Luciano",
+  "lastname": "Gomez",
+  "email": "luciano.gomez@gmail.com",
+  "password": "abc123",
+  "subject": "Inglés"
+},
+{
+  "_id": {
+    "$oid": "662eae82b4f33688b4224944"
+  },
+  "name": "Layla",
+  "lastname": "Russo",
+  "email": "layla.russo@gmail.com",
+  "password": "abc123",
+  "subject": "Programación"
+}]
